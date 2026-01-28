@@ -1,0 +1,12 @@
+{
+
+
+      "scripts": {
+        "start": "node index.js"
+      },
+      "type": "module",
+      "dependencies": {
+            "express": "^4.22.1",
+            "url": "^0.11.4"
+      }
+}
